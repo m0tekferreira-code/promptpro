@@ -69,6 +69,8 @@ npm run dev
 
 O aplicativo abrirá automaticamente em `http://localhost:3000`
 
+> **Nota:** Esta aplicação usa Tailwind CSS via CDN para garantir compatibilidade máxima e facilitar o deploy. Não é necessário configurar PostCSS ou Tailwind localmente.
+
 ### Configuração da IA (Opcional mas Recomendado)
 
 Para desbloquear os recursos de IA:
